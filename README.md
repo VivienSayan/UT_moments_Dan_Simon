@@ -1,4 +1,4 @@
-# UT_lin_comparison
+# Unscented Transform vs 1st order linearization 
 A matlab code for the example 14.1 of "Optimal state estimation" from Dan Simon (p.434)
 
 I have implemented the "polar to cartesian" transformation example from the book.
